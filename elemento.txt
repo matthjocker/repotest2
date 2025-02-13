@@ -1,0 +1,425 @@
+<fieldset style="border-style:none;border-width:0px;padding:0px;margin:0px;direction:ltr;text-align:default;outline:none;" tabindex="-1" title="">
+   <legend style="padding:0px;font-size:0pt;line-height:0px;"></legend>
+   <div class="km_7fDM1rC3LzJ35BXz_0">
+      <div class="ko_7fDM1rC3LzJ35BXz_0">
+         <div align="center" scriptclass="Section" id="FormControl_V1_I1_S5_I2_R1_I3_S1" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_S1" viewdatanode="33">
+            <div style="direction:ltr;text-align:left;outline:none;" tabindex="-1" title="" onfocus="return (ViewContainer.OnFocus(this, event));" scriptclass="Container" class="cl_7fDM1rC3LzJ35BXz_0 fi_7fDM1rC3LzJ35BXz_0 ld_7fDM1rC3LzJ35BXz_0" id="FormControl_V1_I1_S5_I2_R1_I3_S1_I4" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_S1_I4" viewdatanode="34" haseditingactions="false">
+               <div style="z-index:50;position:absolute;">
+                  <span onclick="Util.StopEventProprogation(event);" id="FormControl_V1_I1_S5_I2_R1_I3_S1_I4_Widget" style="height:54px;z-index:50;position:absolute;left:-19px;top:-1px;border:0px solid silver;"><a href="#" alt="Menú de sección." onclick="return HoverMenu.HandleWidgetClick(this,event);" onkeypress="return HoverMenu.HandleWidgetClick(this,event);" onfocus="Container.ShowWidgetOnFocus(this);" onblur="Container.HideWidgetOnBlur(this);" tabindex="-1"><span style="position:absolute;display:none;width:18px;height:18px;padding:0px;border: transparent dotted 1px; left:0px"><span style="cursor:hand;left:-111px;top:-3px;clip:rect(3px 129px 21px 111px);position:absolute;"><img title="Haga clic aquí para abrir el menú de comandos [Ctrl + Flecha abajo]." src="/_layouts/15/inc/MergedImage2.png?rev=1AO%2BlQWrw%2B3tF9qlYyPiimOMVx2PgGslm4MI2cqSZeo%2BV5Ju2lSzu2VR3RS8WAuBMSKzeQWwYXsgsYecIKs8Ng%3D%3D" alt="Menú de sección." style="border-width:0px;border-style:none;"></span></span></a></span>
+                  <span>
+                     <span id="FormControl_V1_I1_S5_I2_R1_I3_S1_I4_Widget_Menu" style="z-index:100;position:absolute;background-color:#F0F0F0;width: auto;max-width: 300px;left:-1px;top:0px;border:solid 1px #BEC1C4;display:none;direction:ltr;">
+                        <div style="position:absolute;"></div>
+                     </span>
+                  </span>
+               </div>
+               <fieldset style="border-style:none;border-width:0px;padding:0px;margin:0px;direction:ltr;text-align:default;outline:none;" tabindex="-1" title="">
+                  <legend style="padding:0px;font-size:0pt;line-height:0px;"></legend>
+                  <div class="km_7fDM1rC3LzJ35BXz_0">
+                     <div class="ko_7fDM1rC3LzJ35BXz_0">
+                        <table class="cq_7fDM1rC3LzJ35BXz_0 cu_7fDM1rC3LzJ35BXz_0 fj_7fDM1rC3LzJ35BXz_0 " cellpadding="0px" style="margin-right:auto;margin-left:auto;" cellspacing="0px">
+                           <colgroup class="km_7fDM1rC3LzJ35BXz_0">
+                              <col class="fk_7fDM1rC3LzJ35BXz_0">
+                              <col class="fl_7fDM1rC3LzJ35BXz_0">
+                           </colgroup>
+                           <tbody class="km_7fDM1rC3LzJ35BXz_0" valign="top">
+                              <tr class="cy_7fDM1rC3LzJ35BXz_0 eb_7fDM1rC3LzJ35BXz_0">
+                                 <td class="cv_7fDM1rC3LzJ35BXz_0 cz_7fDM1rC3LzJ35BXz_0 fm_7fDM1rC3LzJ35BXz_0">
+                                    <h5 class="c1_7fDM1rC3LzJ35BXz_0 fn_7fDM1rC3LzJ35BXz_0 inheritFontFamily">
+                                       <span class="fo_7fDM1rC3LzJ35BXz_0">
+                                          <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 lw_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0">
+                                             <div id="FormControl_V1_I1_S5_I2_R1_I3_S1_I4_E1" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 fp_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="35" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_S1_I4_E1" tabindex="-1" title="">Programa</div>
+                                          </span>
+                                       </span>
+                                    </h5>
+                                 </td>
+                                 <td class="cv_7fDM1rC3LzJ35BXz_0 cz_7fDM1rC3LzJ35BXz_0 fq_7fDM1rC3LzJ35BXz_0">
+                                    <h3 class="c0_7fDM1rC3LzJ35BXz_0 km_7fDM1rC3LzJ35BXz_0 inheritFontFamily">
+                                       <span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 c6_7fDM1rC3LzJ35BXz_0 lw_7fDM1rC3LzJ35BXz_0 mm_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0">
+                                          <select onchange="return (DropDownList.OnChange(this, event));" onfocus="return (DropDownList.OnFocus(this, event));" onblur="return (DropDownList.OnBlur(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_S1_I4_D2" scriptclass="DropDownList" class="c9_7fDM1rC3LzJ35BXz_0 c7_7fDM1rC3LzJ35BXz_0 ml_7fDM1rC3LzJ35BXz_0 lz_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="36" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_S1_I4_D2" disabled="disabled" tabindex="12" title="" style="direction:ltr">
+                                             <option value=""></option>
+                                             <option value="1748 - FP PRESENCIAL" selected="">1748 - FP PRESENCIAL</option>
+                                          </select>
+                                       </span>
+                                    </h3>
+                                 </td>
+                              </tr>
+                              <tr class="cy_7fDM1rC3LzJ35BXz_0 fs_7fDM1rC3LzJ35BXz_0">
+                                 <td class="cv_7fDM1rC3LzJ35BXz_0 cz_7fDM1rC3LzJ35BXz_0 ft_7fDM1rC3LzJ35BXz_0">
+                                    <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 lw_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0">
+                                       <div id="FormControl_V1_I1_S5_I2_R1_I3_S1_I4_E3" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 eq_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="37" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_S1_I4_E3" tabindex="-1" title="">Responsables:</div>
+                                    </span>
+                                 </td>
+                                 <td class="cv_7fDM1rC3LzJ35BXz_0 cz_7fDM1rC3LzJ35BXz_0 fu_7fDM1rC3LzJ35BXz_0">
+                                    <div class="km_7fDM1rC3LzJ35BXz_0">
+                                       <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 lw_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0">
+                                          <div id="FormControl_V1_I1_S5_I2_R1_I3_S1_I4_E4" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 fv_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="38" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_S1_I4_E4" tabindex="-1" title="">Flavio Ariel Gueler </div>
+                                       </span>
+                                       <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 lw_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0">
+                                          <div id="FormControl_V1_I1_S5_I2_R1_I3_S1_I4_E5" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 fv_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="39" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_S1_I4_E5" tabindex="-1" title="">-</div>
+                                       </span>
+                                       <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 lw_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0">
+                                          <div id="FormControl_V1_I1_S5_I2_R1_I3_S1_I4_E6" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 fv_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="40" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_S1_I4_E6" tabindex="-1" title="">Monica Cristina Lelkes </div>
+                                       </span>
+                                    </div>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div class="ku_7fDM1rC3LzJ35BXz_0"><span class="kw_7fDM1rC3LzJ35BXz_0"></span></div>
+                  </div>
+               </fieldset>
+            </div>
+         </div>
+      </div>
+      <div class="ko_7fDM1rC3LzJ35BXz_0"></div>
+      <div class="ko_7fDM1rC3LzJ35BXz_0">
+         <div class="fw_7fDM1rC3LzJ35BXz_0">
+            <table class="co_7fDM1rC3LzJ35BXz_0 cq_7fDM1rC3LzJ35BXz_0 cu_7fDM1rC3LzJ35BXz_0 fj_7fDM1rC3LzJ35BXz_0 " cellpadding="0px" cellspacing="0px" style="margin-right:auto;margin-left:auto;" title="">
+               <caption class="fx_7fDM1rC3LzJ35BXz_0"></caption>
+               <colgroup class="km_7fDM1rC3LzJ35BXz_0">
+                  <col class="fy_7fDM1rC3LzJ35BXz_0">
+                  <col class="fz_7fDM1rC3LzJ35BXz_0">
+                  <col class="f0_7fDM1rC3LzJ35BXz_0">
+                  <col class="f1_7fDM1rC3LzJ35BXz_0">
+                  <col class="f1_7fDM1rC3LzJ35BXz_0">
+                  <col class="f2_7fDM1rC3LzJ35BXz_0">
+                  <col class="f2_7fDM1rC3LzJ35BXz_0">
+               </colgroup>
+               <thead class="cx_7fDM1rC3LzJ35BXz_0 f3_7fDM1rC3LzJ35BXz_0">
+                  <tr class="eb_7fDM1rC3LzJ35BXz_0">
+                     <th class="cw_7fDM1rC3LzJ35BXz_0 f4_7fDM1rC3LzJ35BXz_0" scope="col">Table Control Functionality</th>
+                     <th class="cw_7fDM1rC3LzJ35BXz_0 f5_7fDM1rC3LzJ35BXz_0" scope="col">
+                        <h5 class="c1_7fDM1rC3LzJ35BXz_0 f6_7fDM1rC3LzJ35BXz_0 inheritFontFamily">&nbsp;</h5>
+                     </th>
+                     <th class="cw_7fDM1rC3LzJ35BXz_0 f5_7fDM1rC3LzJ35BXz_0" scope="col">
+                        <h5 class="c1_7fDM1rC3LzJ35BXz_0 f6_7fDM1rC3LzJ35BXz_0 inheritFontFamily">&nbsp;</h5>
+                     </th>
+                     <th class="cw_7fDM1rC3LzJ35BXz_0 f5_7fDM1rC3LzJ35BXz_0" scope="col" colspan="2">
+                        <h5 class="c1_7fDM1rC3LzJ35BXz_0 f6_7fDM1rC3LzJ35BXz_0 inheritFontFamily">&nbsp;</h5>
+                     </th>
+                     <th class="cw_7fDM1rC3LzJ35BXz_0 f7_7fDM1rC3LzJ35BXz_0" scope="col" colspan="2">
+                        <h5 class="c1_7fDM1rC3LzJ35BXz_0 f8_7fDM1rC3LzJ35BXz_0 inheritFontFamily">
+                           <span class="f9_7fDM1rC3LzJ35BXz_0">
+                              <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 lt_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0">
+                                 <div id="FormControl_V1_I1_S5_I2_R1_I3_E2" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 mn_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="41" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_E2" title="">Conforma el Responsable del Programa</div>
+                              </span>
+                           </span>
+                        </h5>
+                     </th>
+                  </tr>
+                  <tr class="gb_7fDM1rC3LzJ35BXz_0">
+                     <th class="cw_7fDM1rC3LzJ35BXz_0 f4_7fDM1rC3LzJ35BXz_0" scope="col">Table Control Functionality</th>
+                     <th class="cw_7fDM1rC3LzJ35BXz_0 gc_7fDM1rC3LzJ35BXz_0" scope="col">
+                        <h5 class="c1_7fDM1rC3LzJ35BXz_0 f6_7fDM1rC3LzJ35BXz_0 inheritFontFamily">&nbsp;</h5>
+                     </th>
+                     <th class="cw_7fDM1rC3LzJ35BXz_0 gc_7fDM1rC3LzJ35BXz_0" scope="col">
+                        <h5 class="c1_7fDM1rC3LzJ35BXz_0 f6_7fDM1rC3LzJ35BXz_0 inheritFontFamily">&nbsp;</h5>
+                     </th>
+                     <th class="cw_7fDM1rC3LzJ35BXz_0 gd_7fDM1rC3LzJ35BXz_0" scope="col" colspan="2">
+                        <h5 class="c1_7fDM1rC3LzJ35BXz_0 f8_7fDM1rC3LzJ35BXz_0 inheritFontFamily">
+                           <span class="ge_7fDM1rC3LzJ35BXz_0">
+                              <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 mo_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0">
+                                 <div id="FormControl_V1_I1_S5_I2_R1_I3_E3" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 mp_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="42" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_E3" title="">Habilitación</div>
+                              </span>
+                           </span>
+                        </h5>
+                     </th>
+                     <th class="cw_7fDM1rC3LzJ35BXz_0 gd_7fDM1rC3LzJ35BXz_0" scope="col" colspan="2"></th>
+                  </tr>
+                  <tr class="du_7fDM1rC3LzJ35BXz_0">
+                     <th class="cw_7fDM1rC3LzJ35BXz_0 f4_7fDM1rC3LzJ35BXz_0" scope="col">Table Control Functionality</th>
+                     <th class="cw_7fDM1rC3LzJ35BXz_0 gg_7fDM1rC3LzJ35BXz_0" scope="col">
+                        <h5 class="c1_7fDM1rC3LzJ35BXz_0 f8_7fDM1rC3LzJ35BXz_0 inheritFontFamily">
+                           <span class="ge_7fDM1rC3LzJ35BXz_0">
+                              <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 lt_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0">
+                                 <div id="FormControl_V1_I1_S5_I2_R1_I3_E4" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 mp_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="43" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_E4" title="">Permisos</div>
+                              </span>
+                           </span>
+                        </h5>
+                     </th>
+                     <th class="cw_7fDM1rC3LzJ35BXz_0 gg_7fDM1rC3LzJ35BXz_0" scope="col">
+                        <h5 class="c1_7fDM1rC3LzJ35BXz_0 f8_7fDM1rC3LzJ35BXz_0 inheritFontFamily">
+                           <span class="ge_7fDM1rC3LzJ35BXz_0">
+                              <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 lt_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0">
+                                 <div id="FormControl_V1_I1_S5_I2_R1_I3_E5" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 mp_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="44" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_E5" title="">Nombre y Apellido</div>
+                              </span>
+                           </span>
+                        </h5>
+                     </th>
+                     <th class="cw_7fDM1rC3LzJ35BXz_0 gi_7fDM1rC3LzJ35BXz_0" scope="col">
+                        <h5 class="c1_7fDM1rC3LzJ35BXz_0 f8_7fDM1rC3LzJ35BXz_0 inheritFontFamily">
+                           <span class="ge_7fDM1rC3LzJ35BXz_0">
+                              <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 lw_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0">
+                                 <div id="FormControl_V1_I1_S5_I2_R1_I3_E6" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 gj_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="45" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_E6" tabindex="-1" title="">AEJ</div>
+                              </span>
+                           </span>
+                        </h5>
+                     </th>
+                     <th class="cw_7fDM1rC3LzJ35BXz_0 gi_7fDM1rC3LzJ35BXz_0" scope="col">
+                        <h5 class="c1_7fDM1rC3LzJ35BXz_0 f8_7fDM1rC3LzJ35BXz_0 inheritFontFamily">
+                           <span class="ge_7fDM1rC3LzJ35BXz_0">
+                              <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 lw_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0">
+                                 <div id="FormControl_V1_I1_S5_I2_R1_I3_E7" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 gj_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="46" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_E7" tabindex="-1" title="">SCyE</div>
+                              </span>
+                           </span>
+                        </h5>
+                     </th>
+                     <th class="cw_7fDM1rC3LzJ35BXz_0 gi_7fDM1rC3LzJ35BXz_0" scope="col" colspan="2">
+                        <span class="ge_7fDM1rC3LzJ35BXz_0">
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 lt_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_E8" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 mp_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="47" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_E8" title="">Etapas</div>
+                           </span>
+                        </span>
+                     </th>
+                  </tr>
+               </thead>
+               <tbody scriptclass="RepeatingTable" id="FormControl_V1_I1_S5_I2_R1_I3_R9" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9" viewdatanode="48" style="direction:ltr;">
+                  <tr onfocus="return (RepeatingTableRow.OnFocus(this, event));" scriptclass="RepeatingTableRow" class="kn_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5" viewdatanode="49">
+                     <td style="vertical-align:top;">
+                        <div style="z-index:50;position:absolute;">
+                           <span onclick="Util.StopEventProprogation(event);" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_Widget" style="height:54px;z-index:50;position:absolute;left:-19px;top:0px;border:0px solid silver;"><a href="#" alt="Menú Tabla." onclick="return HoverMenu.HandleWidgetClick(this,event);" onkeypress="return HoverMenu.HandleWidgetClick(this,event);" onfocus="Container.ShowWidgetOnFocus(this);" onblur="Container.HideWidgetOnBlur(this);" tabindex="0"><span style="position:absolute;display:none;width:18px;height:18px;padding:0px;border: transparent dotted 1px; left:0px"><span style="cursor:hand;left:-111px;top:-3px;clip:rect(3px 129px 21px 111px);position:absolute;"><img title="Haga clic aquí para abrir el menú de comandos [Ctrl + Flecha abajo]." src="/_layouts/15/inc/MergedImage2.png?rev=1AO%2BlQWrw%2B3tF9qlYyPiimOMVx2PgGslm4MI2cqSZeo%2BV5Ju2lSzu2VR3RS8WAuBMSKzeQWwYXsgsYecIKs8Ng%3D%3D" alt="Menú Tabla." style="border-width:0px;border-style:none;"></span></span></a></span>
+                           <span>
+                              <span id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_Widget_Menu" style="width:300px;z-index:100;position:absolute;background-color:#F0F0F0;left:-1px;top:1px;border:solid 1px #BEC1C4;display:none;direction:ltr;">
+                                 <div style="position:absolute;"></div>
+                              </span>
+                           </span>
+                        </div>
+                     </td>
+                     <td class="cv_7fDM1rC3LzJ35BXz_0 gk_7fDM1rC3LzJ35BXz_0">
+                        <div class="ko_7fDM1rC3LzJ35BXz_0">
+                           <span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 c6_7fDM1rC3LzJ35BXz_0 mq_7fDM1rC3LzJ35BXz_0 ms_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0">
+                              <select onchange="return (DropDownList.OnChange(this, event));" onfocus="return (DropDownList.OnFocus(this, event));" onblur="return (DropDownList.OnBlur(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_D1" scriptclass="DropDownList" class="c8_7fDM1rC3LzJ35BXz_0 c7_7fDM1rC3LzJ35BXz_0 mr_7fDM1rC3LzJ35BXz_0 lz_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="50" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_D1" disabled="disabled" tabindex="13" title="" style="direction:ltr">
+                                 <option value="">Seleccionar</option>
+                                 <option value="Alta" selected="">Alta</option>
+                                 <option value="Baja">Baja</option>
+                                 <option value="Modificación">Modificación</option>
+                              </select>
+                           </span>
+                        </div>
+                        <div class="ko_7fDM1rC3LzJ35BXz_0">
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 lt_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E2" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 mt_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="51" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E2" title="">Se agregarán los permisos seleccionados.</div>
+                           </span>
+                        </div>
+                        <div class="ko_7fDM1rC3LzJ35BXz_0">
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 lt_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E3" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 mt_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="52" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E3" title="">Se quitarán los permisos seleccionados.</div>
+                           </span>
+                        </div>
+                        <div class="ko_7fDM1rC3LzJ35BXz_0">
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 lt_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E4" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 mt_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="53" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E4" title="">Se configurarán los permisos tal cual sea la selección de los mismos.</div>
+                           </span>
+                        </div>
+                     </td>
+                     <td class="cv_7fDM1rC3LzJ35BXz_0 gn_7fDM1rC3LzJ35BXz_0">
+                        <div class="ko_7fDM1rC3LzJ35BXz_0">
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="da_7fDM1rC3LzJ35BXz_0 mu_7fDM1rC3LzJ35BXz_0 mw_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0">
+                              <span tabindex="-1" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_X5" scriptclass="CustomControl" class="db_7fDM1rC3LzJ35BXz_0 mv_7fDM1rC3LzJ35BXz_0 mx_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="54" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_X5" disabled="disabled" title="" style="min-height: 22px; text-align: left;">
+                                 <span id="FormControl_FormControl__customcontrol2" editoroldvalue="&nbsp;Lucia Montenegro Loewy; " removetext="Quitar" value="true" nomatchestext="<Nombres no coincidentes>" allowempty="1" onactivate="if(typeof(ExternalOnFocus)=='function') { ExternalOnFocus('FormControl_FormControl__customcontrol2');}" prefercontenteditablediv="true" moreitemstext="Más nombres..." showdatavalidationerrorborder="false" allowtypein="true" invalidate="false" eeaftercallbackclientscript="" showentitydisplaytextintextbox="0" style="width: 100%;" aria-live="polite" aria-relevant="all" disabled="disabled">
+                                    <input name="FormControl$FormControl__customcontrol2$hiddenSpanData" type="hidden" id="FormControl_FormControl__customcontrol2_hiddenSpanData" value="&amp;nbsp;<span id=&quot;spani:0#.w|trabajo\lmontenegro&quot; iscontenttype=&quot;true&quot; tabindex=&quot;-1&quot; class=&quot;ms-entity-resolved&quot; contenteditable=&quot;false&quot; title=&quot;TRABAJO\lmontenegro&quot; disabled=&quot;disabled&quot;><div style=&quot;display:none;&quot; id=&quot;divEntityData&quot; key=&quot;i:0#.w|trabajo\lmontenegro&quot; displaytext=&quot;Lucia Montenegro Loewy&quot; isresolved=&quot;True&quot; description=&quot;TRABAJO\lmontenegro&quot; disabled=&quot;disabled&quot;><div data=&quot;<ArrayOfDictionaryEntry xmlns:xsd=&amp;quot;http://www.w3.org/2001/XMLSchema&amp;quot; xmlns:xsi=&amp;quot;http://www.w3.org/2001/XMLSchema-instance&amp;quot;><DictionaryEntry><Key xsi:type=&amp;quot;xsd:string&amp;quot;>Title</Key><Value xsi:type=&amp;quot;xsd:string&amp;quot;>Analista</Value></DictionaryEntry><DictionaryEntry><Key xsi:type=&amp;quot;xsd:string&amp;quot;>MobilePhone</Key><Value xsi:type=&amp;quot;xsd:string&amp;quot;/></DictionaryEntry><DictionaryEntry><Key xsi:type=&amp;quot;xsd:string&amp;quot;>SIPAddress</Key></DictionaryEntry><DictionaryEntry><Key xsi:type=&amp;quot;xsd:string&amp;quot;>Department</Key><Value xsi:type=&amp;quot;xsd:string&amp;quot;>D Estudios y Relaciones del Trabajo</Value></DictionaryEntry><DictionaryEntry><Key xsi:type=&amp;quot;xsd:string&amp;quot;>Email</Key><Value xsi:type=&amp;quot;xsd:string&amp;quot;>LMONTENEGRO@trabajo.gob.ar</Value></DictionaryEntry></ArrayOfDictionaryEntry>&quot; disabled=&quot;disabled&quot;></div></div><span id=&quot;content&quot; tabindex=&quot;-1&quot; contenteditable=&quot;false&quot; onmousedown=&quot;onMouseDownRw(event);&quot; oncontextmenu=&quot;onContextMenuSpnRw(event, &amp;quot;FormControl_FormControl__customcontrol2&amp;quot;);&quot; disabled=&quot;disabled&quot;>Lucia Montenegro Loewy</span></span>; " disabled="disabled"><input name="FormControl$FormControl__customcontrol2$OriginalEntities" type="hidden" id="FormControl_FormControl__customcontrol2_OriginalEntities" value="<Entities><Entity Key=&quot;i:0#.w|trabajo\lmontenegro&quot; DisplayText=&quot;Lucia Montenegro Loewy&quot; IsResolved=&quot;True&quot; Description=&quot;TRABAJO\lmontenegro&quot;><ExtraData><ArrayOfDictionaryEntry xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;><DictionaryEntry><Key xsi:type=&quot;xsd:string&quot;>Title</Key><Value xsi:type=&quot;xsd:string&quot;>Analista</Value></DictionaryEntry><DictionaryEntry><Key xsi:type=&quot;xsd:string&quot;>MobilePhone</Key><Value xsi:type=&quot;xsd:string&quot; /></DictionaryEntry><DictionaryEntry><Key xsi:type=&quot;xsd:string&quot;>SIPAddress</Key></DictionaryEntry><DictionaryEntry><Key xsi:type=&quot;xsd:string&quot;>Department</Key><Value xsi:type=&quot;xsd:string&quot;>D Estudios y Relaciones del Trabajo</Value></DictionaryEntry><DictionaryEntry><Key xsi:type=&quot;xsd:string&quot;>Email</Key><Value xsi:type=&quot;xsd:string&quot;>LMONTENEGRO@trabajo.gob.ar</Value></DictionaryEntry></ArrayOfDictionaryEntry></ExtraData></Entity></Entities>" disabled="disabled"><input name="FormControl$FormControl__customcontrol2$HiddenEntityKey" type="hidden" id="FormControl_FormControl__customcontrol2_HiddenEntityKey" value="i:0#.w|trabajo\lmontenegro" disabled="disabled"><input name="FormControl$FormControl__customcontrol2$HiddenEntityDisplayText" type="hidden" id="FormControl_FormControl__customcontrol2_HiddenEntityDisplayText" value="Lucia Montenegro Loewy" disabled="disabled">
+                                    <table id="FormControl_FormControl__customcontrol2_OuterTable" class="ms-usereditor" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;" disabled="disabled">
+                                       <tbody disabled="disabled">
+                                          <tr valign="bottom" disabled="disabled">
+                                             <td valign="top" style="width:88%;" disabled="disabled">
+                                                <table cellpadding="0" cellspacing="0" style="width:100%;table-layout:fixed;" disabled="disabled">
+                                                   <tbody disabled="disabled">
+                                                      <tr disabled="disabled">
+                                                         <td id="FormControl_FormControl__customcontrol2_containerCell" disabled="disabled">
+                                                            <div id="FormControl_FormControl__customcontrol2_upLevelDiv" tabindex="0" onfocus="StoreOldValue('FormControl_FormControl__customcontrol2'); saveOldEntities('FormControl_FormControl__customcontrol2'); Sys.UI.DomElement.addCssClass(this, 'ms-inputBoxActive');" aria-multiline="true" onblur="if(typeof(ExternalCustomControlCallback)=='function'){ if(ShouldCallCustomCallBack('FormControl_FormControl__customcontrol2',event)){if(!ValidatePickerControl('FormControl_FormControl__customcontrol2')){ShowValidationError();return false;}else {ExternalCustomControlCallback('FormControl_FormControl__customcontrol2');}}} Sys.UI.DomElement.removeCssClass(this, 'ms-inputBoxActive');" class="ms-inputuserfield ms-inputBox" onclick="onClickRw(true, true,event,'FormControl_FormControl__customcontrol2');" onchange="CustomControl.OnValueChanged(&quot;FormControl_FormControl__customcontrol2&quot;);" onpaste="dopaste('FormControl_FormControl__customcontrol2',event);" prefercontenteditablediv="true" autopostback="0" rows="1" ondragstart="canEvt(event);" onkeyup="return onKeyUpRw('FormControl_FormControl__customcontrol2');" oncopy="docopy('FormControl_FormControl__customcontrol2',event);" title="Selector de personas" onkeydown="return onKeyDownRw('FormControl_FormControl__customcontrol2', 3, true, event);" onvaluesetfrompicker="CustomControl.OnValueChanged(&quot;FormControl_FormControl__customcontrol2&quot;);" spellcheck="false" contenteditable="true" aria-haspopup="true" style="overflow-wrap: break-word; overflow-x: hidden; height: 20px;" name="upLevelDiv" role="textbox" disabled="disabled">
+                                                               &nbsp;
+                                                               <span id="spani:0#.w|trabajo\lmontenegro" iscontenttype="true" tabindex="-1" class="ms-entity-resolved" contenteditable="false" title="TRABAJO\lmontenegro" disabled="disabled">
+                                                                  <div style="display:none;" id="divEntityData" key="i:0#.w|trabajo\lmontenegro" displaytext="Lucia Montenegro Loewy" isresolved="True" description="TRABAJO\lmontenegro" disabled="disabled">
+                                                                     <div data="<ArrayOfDictionaryEntry xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;><DictionaryEntry><Key xsi:type=&quot;xsd:string&quot;>Title</Key><Value xsi:type=&quot;xsd:string&quot;>Analista</Value></DictionaryEntry><DictionaryEntry><Key xsi:type=&quot;xsd:string&quot;>MobilePhone</Key><Value xsi:type=&quot;xsd:string&quot;/></DictionaryEntry><DictionaryEntry><Key xsi:type=&quot;xsd:string&quot;>SIPAddress</Key></DictionaryEntry><DictionaryEntry><Key xsi:type=&quot;xsd:string&quot;>Department</Key><Value xsi:type=&quot;xsd:string&quot;>D Estudios y Relaciones del Trabajo</Value></DictionaryEntry><DictionaryEntry><Key xsi:type=&quot;xsd:string&quot;>Email</Key><Value xsi:type=&quot;xsd:string&quot;>LMONTENEGRO@trabajo.gob.ar</Value></DictionaryEntry></ArrayOfDictionaryEntry>" disabled="disabled"></div>
+                                                                  </div>
+                                                                  <span id="content" tabindex="-1" contenteditable="false" onmousedown="onMouseDownRw(event);" oncontextmenu="onContextMenuSpnRw(event, &quot;FormControl_FormControl__customcontrol2&quot;);" disabled="disabled">Lucia Montenegro Loewy</span>
+                                                               </span>
+                                                               ; 
+                                                            </div>
+                                                            <textarea name="FormControl$FormControl__customcontrol2$downlevelTextBox" rows="1" cols="20" id="FormControl_FormControl__customcontrol2_downlevelTextBox" class="ms-inputuserfield ms-inputBox" onfocus="StoreOldValue('FormControl_FormControl__customcontrol2'); saveOldEntities('FormControl_FormControl__customcontrol2'); Sys.UI.DomElement.addCssClass(this, 'ms-inputBoxActive');" onkeyup="return onKeyUpRw('FormControl_FormControl__customcontrol2');" title="Selector de personas" onvaluesetfrompicker="CustomControl.OnValueChanged(&quot;FormControl_FormControl__customcontrol2&quot;);" onchange="CustomControl.OnValueChanged(&quot;FormControl_FormControl__customcontrol2&quot;);" onblur="if(typeof(ExternalCustomControlCallback)=='function'){ if(ShouldCallCustomCallBack('FormControl_FormControl__customcontrol2',event)){if(!ValidatePickerControl('FormControl_FormControl__customcontrol2')){ShowValidationError();return false;}else {ExternalCustomControlCallback('FormControl_FormControl__customcontrol2');}}} Sys.UI.DomElement.removeCssClass(this, 'ms-inputBoxActive');" onkeydown="return onKeyDownRw('FormControl_FormControl__customcontrol2', 3, true, event);" autopostback="0" renderascontenteditablediv="true" style="width:100%;display: none;position: absolute; " disabled="disabled"></textarea>
+                                                         </td>
+                                                      </tr>
+                                                   </tbody>
+                                                </table>
+                                             </td>
+                                             <td align="center" valign="top" nowrap="true" style="padding-left:5px;float:right;" disabled="disabled"><a id="FormControl_FormControl__customcontrol2_checkNames" title="Comprobar nombres" onclick=" if(!ValidatePickerControl('FormControl_FormControl__customcontrol2')){ ShowValidationError(); return false;} var arg=getUplevel('FormControl_FormControl__customcontrol2'); var ctx='FormControl_FormControl__customcontrol2';EntityEditorSetWaitCursor(ctx);WebForm_DoCallback('FormControl$FormControl__customcontrol2',arg,EntityEditorHandleCheckNameResult,ctx,EntityEditorHandleCheckNameError,true);return false;" hrefbak="javascript:"><img title="Comprobar nombres" src="/_layouts/15/images/checknames.png" alt="Comprobar nombres" disabled="disabled"></a>&nbsp;<a id="FormControl_FormControl__customcontrol2_browse" title="Navegar" onclick="__Dialog__FormControl_FormControl__customcontrol2(); return false;" hrefbak="javascript:"><img title="Navegar" src="/_layouts/15/images/addressbook.gif" alt="Navegar" disabled="disabled"></a></td>
+                                          </tr>
+                                          <tr disabled="disabled">
+                                             <td colspan="3" disabled="disabled"><span id="FormControl_FormControl__customcontrol2_errorLabel" class="ms-error" disabled="disabled"></span></td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </span>
+                              </span>
+                           </span>
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 my_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E6" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 mz_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="55" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E6" tabindex="-1" title="">Nombre y Apellido</div>
+                           </span>
+                           <span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 m0_7fDM1rC3LzJ35BXz_0 m2_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0"><input type="text" onfocus="return (TextBox.OnFocus(this, event));" onblur="return (TextBox.OnBlur(this, event));" oninput="return (TextBox.OnInput(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_T7" scriptclass="TextBox" class="c3_7fDM1rC3LzJ35BXz_0 m1_7fDM1rC3LzJ35BXz_0 lz_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="56" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_T7" tabindex="0" title="" value="" style="position: relative;"></span>
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 mo_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E8" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 mz_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="57" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E8" tabindex="-1" title="">CUIL</div>
+                           </span>
+                           <span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 m0_7fDM1rC3LzJ35BXz_0 m2_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0"><input type="text" onfocus="return (TextBox.OnFocus(this, event));" onblur="return (TextBox.OnBlur(this, event));" oninput="return (TextBox.OnInput(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_T9" scriptclass="TextBox" class="c3_7fDM1rC3LzJ35BXz_0 m3_7fDM1rC3LzJ35BXz_0 lz_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="58" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_T9" tabindex="0" title="" maxlength="13" value="" style="position: relative;"></span>
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 mo_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E10" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 mz_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="59" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E10" tabindex="-1" title="">Gecal</div>
+                           </span>
+                        </div>
+                        <div class="km_7fDM1rC3LzJ35BXz_0">
+                           <div align="left" scriptclass="Section" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_S11" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_S11" viewdatanode="60"></div>
+                        </div>
+                     </td>
+                     <td class="cv_7fDM1rC3LzJ35BXz_0 gx_7fDM1rC3LzJ35BXz_0">
+                        <div class="ko_7fDM1rC3LzJ35BXz_0"><span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="mq_7fDM1rC3LzJ35BXz_0 ms_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0"><input onfocus="return (CheckBox.OnFocus(this, event));" onblur="return (CheckBox.OnBlur(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_C12" scriptclass="CheckBox" class="m9_7fDM1rC3LzJ35BXz_0 na_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="61" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_C12" disabled="disabled" tabindex="15" title="" type="checkbox"></span></div>
+                     </td>
+                     <td class="cv_7fDM1rC3LzJ35BXz_0 gz_7fDM1rC3LzJ35BXz_0">
+                        <div class="ko_7fDM1rC3LzJ35BXz_0"><span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="mq_7fDM1rC3LzJ35BXz_0 ms_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0"><input onfocus="return (CheckBox.OnFocus(this, event));" onblur="return (CheckBox.OnBlur(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_C13" scriptclass="CheckBox" class="m9_7fDM1rC3LzJ35BXz_0 na_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="62" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_C13" disabled="true" tabindex="16" title="" type="checkbox"></span></div>
+                     </td>
+                     <td class="cv_7fDM1rC3LzJ35BXz_0 gz_7fDM1rC3LzJ35BXz_0">
+                        <div class="ks_7fDM1rC3LzJ35BXz_0">
+                           <span class="g0_7fDM1rC3LzJ35BXz_0">
+                              <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 lw_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0">
+                                 <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E14" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 g1_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="63" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E14" tabindex="-1" title="">&nbsp;</div>
+                              </span>
+                              <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 mq_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0">
+                                 <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E15" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 nb_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="64" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E15" tabindex="-1" title="">---</div>
+                              </span>
+                              <span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="nc_7fDM1rC3LzJ35BXz_0 ms_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0"><input onfocus="return (CheckBox.OnFocus(this, event));" onblur="return (CheckBox.OnBlur(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_C16" scriptclass="CheckBox" class="km_7fDM1rC3LzJ35BXz_0 na_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="65" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_C16" disabled="true" tabindex="0" title="" checked="" type="checkbox"></span>
+                              <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 nd_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0">
+                                 <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E17" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 ne_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="66" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E17" tabindex="-1" title="">Etapa:Presentación</div>
+                              </span>
+                           </span>
+                        </div>
+                        <div class="km_7fDM1rC3LzJ35BXz_0">
+                           <span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="nc_7fDM1rC3LzJ35BXz_0 ms_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0"><input onfocus="return (CheckBox.OnFocus(this, event));" onblur="return (CheckBox.OnBlur(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_C18" scriptclass="CheckBox" class="km_7fDM1rC3LzJ35BXz_0 na_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="67" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_C18" disabled="disabled" tabindex="0" title="" checked="" type="checkbox"></span>
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 nd_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E19" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 ne_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="68" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E19" tabindex="-1" title="">Etapa:Beneficiario</div>
+                           </span>
+                        </div>
+                        <div class="km_7fDM1rC3LzJ35BXz_0">
+                           <span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="nc_7fDM1rC3LzJ35BXz_0 ms_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0"><input onfocus="return (CheckBox.OnFocus(this, event));" onblur="return (CheckBox.OnBlur(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_C20" scriptclass="CheckBox" class="km_7fDM1rC3LzJ35BXz_0 na_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="69" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_C20" disabled="disabled" tabindex="0" title="" checked="" type="checkbox"></span>
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 nd_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E21" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 ne_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="70" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E21" tabindex="-1" title="">Movimiento:Asignacion-Desasignacion</div>
+                           </span>
+                        </div>
+                        <div class="km_7fDM1rC3LzJ35BXz_0">
+                           <span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="nc_7fDM1rC3LzJ35BXz_0 ms_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0"><input onfocus="return (CheckBox.OnFocus(this, event));" onblur="return (CheckBox.OnBlur(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_C22" scriptclass="CheckBox" class="km_7fDM1rC3LzJ35BXz_0 na_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="71" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_C22" disabled="disabled" tabindex="0" title="" checked="" type="checkbox"></span>
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 nd_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E23" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 ne_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="72" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E23" tabindex="-1" title="">Consultas</div>
+                           </span>
+                        </div>
+                        <div class="km_7fDM1rC3LzJ35BXz_0">
+                           <span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="nc_7fDM1rC3LzJ35BXz_0 ms_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0"><input onfocus="return (CheckBox.OnFocus(this, event));" onblur="return (CheckBox.OnBlur(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_C24" scriptclass="CheckBox" class="km_7fDM1rC3LzJ35BXz_0 na_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="73" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_C24" tabindex="0" title="" type="checkbox"></span>
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 nd_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E25" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 ne_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="74" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E25" tabindex="-1" title="">&nbsp;</div>
+                           </span>
+                        </div>
+                        <div class="km_7fDM1rC3LzJ35BXz_0">
+                           <span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="nc_7fDM1rC3LzJ35BXz_0 ms_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0"><input onfocus="return (CheckBox.OnFocus(this, event));" onblur="return (CheckBox.OnBlur(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_C26" scriptclass="CheckBox" class="km_7fDM1rC3LzJ35BXz_0 na_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="75" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_C26" tabindex="0" title="" type="checkbox"></span>
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 nd_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E27" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 ne_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="76" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E27" tabindex="-1" title="">&nbsp;</div>
+                           </span>
+                        </div>
+                     </td>
+                     <td class="cv_7fDM1rC3LzJ35BXz_0 g5_7fDM1rC3LzJ35BXz_0">
+                        <div class="km_7fDM1rC3LzJ35BXz_0">
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 lw_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E28" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 g6_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="77" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E28" tabindex="-1" title="">&nbsp;</div>
+                           </span>
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 mq_7fDM1rC3LzJ35BXz_0 lv_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E29" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 nf_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="78" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E29" tabindex="-1" title="">&nbsp;</div>
+                           </span>
+                           <span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="nc_7fDM1rC3LzJ35BXz_0 ms_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0"><input onfocus="return (CheckBox.OnFocus(this, event));" onblur="return (CheckBox.OnBlur(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_C30" scriptclass="CheckBox" class="km_7fDM1rC3LzJ35BXz_0 na_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="79" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_C30" disabled="true" tabindex="0" title="" checked="" type="checkbox"></span>
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 nd_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E31" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 ne_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="80" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E31" tabindex="-1" title="">Etapa:Protocolo</div>
+                           </span>
+                        </div>
+                        <div class="km_7fDM1rC3LzJ35BXz_0">
+                           <span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="nc_7fDM1rC3LzJ35BXz_0 ms_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0"><input onfocus="return (CheckBox.OnFocus(this, event));" onblur="return (CheckBox.OnBlur(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_C32" scriptclass="CheckBox" class="km_7fDM1rC3LzJ35BXz_0 na_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="81" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_C32" disabled="true" tabindex="0" title="" checked="" type="checkbox"></span>
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 nd_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E33" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 ne_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="82" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E33" tabindex="-1" title="">Etapa:Baja</div>
+                           </span>
+                        </div>
+                        <div class="km_7fDM1rC3LzJ35BXz_0">
+                           <span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="nc_7fDM1rC3LzJ35BXz_0 ms_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0"><input onfocus="return (CheckBox.OnFocus(this, event));" onblur="return (CheckBox.OnBlur(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_C34" scriptclass="CheckBox" class="km_7fDM1rC3LzJ35BXz_0 na_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="83" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_C34" disabled="disabled" tabindex="0" title="" checked="" type="checkbox"></span>
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 nd_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E35" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 ne_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="84" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E35" tabindex="-1" title="">Movimiento:DesasignacionenReserva</div>
+                           </span>
+                        </div>
+                        <div class="km_7fDM1rC3LzJ35BXz_0">
+                           <span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="nc_7fDM1rC3LzJ35BXz_0 ms_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0"><input onfocus="return (CheckBox.OnFocus(this, event));" onblur="return (CheckBox.OnBlur(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_C36" scriptclass="CheckBox" class="km_7fDM1rC3LzJ35BXz_0 na_7fDM1rC3LzJ35BXz_0 rx_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="85" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_C36" disabled="disabled" tabindex="0" title="" checked="" type="checkbox"></span>
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 nd_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E37" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 ne_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="86" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E37" tabindex="-1" title="">Movimiento:Modificación</div>
+                           </span>
+                        </div>
+                        <div class="km_7fDM1rC3LzJ35BXz_0">
+                           <span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="nc_7fDM1rC3LzJ35BXz_0 ms_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0"><input onfocus="return (CheckBox.OnFocus(this, event));" onblur="return (CheckBox.OnBlur(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_C38" scriptclass="CheckBox" class="km_7fDM1rC3LzJ35BXz_0 na_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="87" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_C38" tabindex="0" title="" type="checkbox"></span>
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 nd_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E39" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 ne_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="88" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E39" tabindex="-1" title="">&nbsp;</div>
+                           </span>
+                        </div>
+                        <div class="km_7fDM1rC3LzJ35BXz_0">
+                           <span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="nc_7fDM1rC3LzJ35BXz_0 ms_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0"><input onfocus="return (CheckBox.OnFocus(this, event));" onblur="return (CheckBox.OnBlur(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_C40" scriptclass="CheckBox" class="km_7fDM1rC3LzJ35BXz_0 na_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="89" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_C40" tabindex="0" title="" type="checkbox"></span>
+                           <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 nd_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0">
+                              <div id="FormControl_V1_I1_S5_I2_R1_I3_R9_I5_E41" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 ne_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="90" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_R9_I5_E41" tabindex="-1" title="">&nbsp;</div>
+                           </span>
+                        </div>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div>
+            <div style="padding-left:0px;display:block;margin-left:auto;margin-right:auto" id="FormControl_V1_I1_S5_I2_R1_I3_U10" scriptclass="InDocUI" class="cr_7fDM1rC3LzJ35BXz_0 ct_7fDM1rC3LzJ35BXz_0 g8_7fDM1rC3LzJ35BXz_0 k3_7fDM1rC3LzJ35BXz_0" direction="ltr" viewdatanode="91" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_U10">
+               <table style="width:100%;float:none" cellpadding="0" cellspacing="0">
+                  <tbody>
+                     <tr>
+                        <td style="width:20px;vertical-align:middle">
+                           <span alt="" style="position:relative;" onclick="return (InDocUI.OnClick(this, event));">
+                              <div alt="" style="display:inline-block;vertical-align:middle;overflow:hidden;position:relative;width:10px;height:10px;"><img alt="" style="left:-20px;top:-7px;position:absolute" src="/_layouts/15/inc/MergedImage2.png"></div>
+                           </span>
+                        </td>
+                        <td style="text-align:left;vertical-align:middle;" role="button"><a tabindex="0" href="#" class="IndocUI" onfocus="return (InDocUI.OnFocus(this, event));" onclick="return (InDocUI.OnClick(this, event));">Agregar Usuario</a></td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+         </div>
+      </div>
+      <div class="km_7fDM1rC3LzJ35BXz_0">
+         <div align="left" scriptclass="Section" id="FormControl_V1_I1_S5_I2_R1_I3_S11" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_S11" viewdatanode="92">
+            <div style="direction:ltr;text-align:left;outline:none;" tabindex="-1" title="" onfocus="return (ViewContainer.OnFocus(this, event));" scriptclass="Container" class="cl_7fDM1rC3LzJ35BXz_0 ng_7fDM1rC3LzJ35BXz_0 nh_7fDM1rC3LzJ35BXz_0" id="FormControl_V1_I1_S5_I2_R1_I3_S11_I9" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_S11_I9" viewdatanode="93">
+               <div style="z-index:50;position:absolute;">
+                  <span onclick="Util.StopEventProprogation(event);" id="FormControl_V1_I1_S5_I2_R1_I3_S11_I9_Widget" style="height:54px;z-index:50;position:absolute;left:-19px;top:-1px;border:0px solid silver;"><a href="#" alt="Menú de sección." onclick="return HoverMenu.HandleWidgetClick(this,event);" onkeypress="return HoverMenu.HandleWidgetClick(this,event);" onfocus="Container.ShowWidgetOnFocus(this);" onblur="Container.HideWidgetOnBlur(this);" tabindex="0"><span style="position:absolute;display:none;width:18px;height:18px;padding:0px;border: transparent dotted 1px; left:0px"><span style="cursor:hand;left:-111px;top:-3px;clip:rect(3px 129px 21px 111px);position:absolute;"><img title="Haga clic aquí para abrir el menú de comandos [Ctrl + Flecha abajo]." src="/_layouts/15/inc/MergedImage2.png?rev=1AO%2BlQWrw%2B3tF9qlYyPiimOMVx2PgGslm4MI2cqSZeo%2BV5Ju2lSzu2VR3RS8WAuBMSKzeQWwYXsgsYecIKs8Ng%3D%3D" alt="Menú de sección." style="border-width:0px;border-style:none;"></span></span></a></span>
+                  <span>
+                     <span id="FormControl_V1_I1_S5_I2_R1_I3_S11_I9_Widget_Menu" style="z-index:100;position:absolute;background-color:#F0F0F0;width: auto;max-width: 300px;left:-1px;top:0px;border:solid 1px #BEC1C4;display:none;direction:ltr;">
+                        <div style="position:absolute;"></div>
+                     </span>
+                  </span>
+               </div>
+               <fieldset style="border-style:none;border-width:0px;padding:0px;margin:0px;direction:ltr;text-align:default;outline:none;" tabindex="-1" title="">
+                  <legend style="padding:0px;font-size:0pt;line-height:0px;"></legend>
+                  <div class="km_7fDM1rC3LzJ35BXz_0">
+                     <div class="km_7fDM1rC3LzJ35BXz_0">
+                        <div align="left" scriptclass="Section" id="FormControl_V1_I1_S5_I2_R1_I3_S11_I9_S1" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_S11_I9_S1" viewdatanode="94"></div>
+                     </div>
+                     <div class="km_7fDM1rC3LzJ35BXz_0">
+                        <div align="left" scriptclass="Section" id="FormControl_V1_I1_S5_I2_R1_I3_S11_I9_S2" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_S11_I9_S2" viewdatanode="95"></div>
+                     </div>
+                  </div>
+               </fieldset>
+            </div>
+         </div>
+      </div>
+      <div class="kx_7fDM1rC3LzJ35BXz_0"><span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="c6_7fDM1rC3LzJ35BXz_0 np_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0"><input style="text-align:center" onclick="return (Button.OnClick(this, event));" onfocus="return (Button.OnFocus(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_B12" scriptclass="Button" class="dd_7fDM1rC3LzJ35BXz_0 nq_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="96" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_B12" tabindex="0" title="" buttonid="btnResponsableProgramas" value="Enviar" type="button"></span><span style="white-space:nowrap;" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="c6_7fDM1rC3LzJ35BXz_0 np_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0"><input style="text-align:center" onclick="return (Button.OnClick(this, event));" onfocus="return (Button.OnFocus(this, event));" id="FormControl_V1_I1_S5_I2_R1_I3_B13" scriptclass="Button" class="dd_7fDM1rC3LzJ35BXz_0 nr_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="97" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_B13" tabindex="0" title="" buttonid="btnCerrarPrograma" value="Cerrar" type="button"></span></div>
+      <div class="ko_7fDM1rC3LzJ35BXz_0">
+         <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 ns_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0">
+            <div id="FormControl_V1_I1_S5_I2_R1_I3_E14" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 nt_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="98" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_E14" tabindex="-1" title="">Autorizado por fgueler, el día 31-10-2024 a las 13:02</div>
+         </span>
+         <span style="" onmouseover="return LeafControl.OnWrappingSpanMouseOver(this, event);" onmouseout="return LeafControl.OnWrappingSpanMouseOut(this, event);" class="ck_7fDM1rC3LzJ35BXz_0 ns_7fDM1rC3LzJ35BXz_0 md_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0">
+            <div id="FormControl_V1_I1_S5_I2_R1_I3_E15" scriptclass="ExpressionBox" class="c4_7fDM1rC3LzJ35BXz_0 nu_7fDM1rC3LzJ35BXz_0 k6_7fDM1rC3LzJ35BXz_0 ry_7fDM1rC3LzJ35BXz_0" wrapped="true" direction="ltr" viewdatanode="99" formid="FormControl" originalid="V1_I1_S5_I2_R1_I3_E15" tabindex="-1" title="">Autorizado por fgueler, el día 31-10-2024 a las 13:02</div>
+         </span>
+      </div>
+      <div class="km_7fDM1rC3LzJ35BXz_0">&nbsp;</div>
+   </div>
+</fieldset>
